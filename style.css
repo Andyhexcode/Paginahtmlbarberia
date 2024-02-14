@@ -1,0 +1,40 @@
+body{
+    background: #34495E;
+}
+#banner{
+    width: 50%;
+}
+h1{ 
+    text-align: center;
+    background: #CCCCCC;
+} 
+p{
+    text-align: center;
+    background: #F4D03F;
+}
+em strong{
+    text-align: center;
+    color:midnightblue
+}
+#misión{
+    font-style: size 20px
+}
+.items{
+    font-style: italic;
+}
+.Diferenciales{
+    background: #CCCCCC
+}
+#banner2{
+    width: 50%;
+}
+.Principal{
+    background: #34495E;
+    padding: 25px;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 40%;
+    margin-right: 2%;
+}
