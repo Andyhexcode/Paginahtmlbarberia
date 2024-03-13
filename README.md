@@ -1,1 +1,1 @@
-Las paginas de alura se hicieron durante el curso
+Las paginas de alura se hicieron durante el curso 
